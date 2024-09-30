@@ -1,0 +1,1 @@
+This current project is an assignment project for 2024F-T3_AML 3104, Assignment 1 For Sijal Shrestha. 
